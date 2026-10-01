@@ -4,7 +4,7 @@ Complaints and compliance specialist with five years and half in regulated payme
 
 Now learning to build: Python, AI tooling, and app development with Lovable.
 
-- 🌱 Currently working on: **My Mind Oasis**, a mindfulness and meditation app
+- 🌱 Currently working on: **Bloom**, a mindfulness and meditation app
 - 📚 Learning: Python, AI-assisted development
 - 📍 Based in Melbourne, Australia
 
