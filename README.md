@@ -1,6 +1,6 @@
 ### Hi, I'm Samy 👋
 
-Complaints and compliance specialist with 5.5 years in regulated payments, fintech and iGaming (Square/Block, Azimo, PokerStars). Law degree, native French and English.
+Complaints and compliance specialist with 6.5 years in regulated payments, fintech and iGaming (Square/Block, Azimo, PokerStars). Law degree, native French and English.
 
 I'm building the technical side of compliance and support work: querying data, analysing complaints trends, and understanding how payments systems fit together. On the side, I build apps with AI.
 
