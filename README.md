@@ -15,6 +15,6 @@ I'm building the technical side of compliance and support work: querying data, a
 
 ## 📚 Learning
 
-SQL · Excel · Power BI · APIs (Postman) · payments infrastructure · generative AI (working towards Google Cloud Generative AI Leader)
+SQL · Excel · Power BI · APIs (Postman) · Jira Service Management · payments infrastructure · generative AI (working towards Google Cloud Generative AI Leader)
 
 📍 Based in Australia, returning to Europe · 📫 [LinkedIn](https://www.linkedin.com/in/samy-bosvy/)
