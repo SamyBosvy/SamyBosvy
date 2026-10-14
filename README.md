@@ -11,6 +11,7 @@ I'm building the technical side of compliance and support work: querying data, a
 
 ## 🌱 In progress
 
+- **Tempo** *(private, invite-only)*: a mobile-first app for protecting deep work and handling meeting stress. It reads your Google Calendar to flag high-stakes meetings, prompts a short breathing session beforehand, and tracks focus sessions, interruptions and energy to show when you work best.
 - **Bloom**: mindfulness and meditation app with guided sessions, mood tracking and journaling
 
 ## 📚 Learning
