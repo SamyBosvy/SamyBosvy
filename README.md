@@ -19,7 +19,7 @@ I'm building the technical side of compliance and support work: querying data, a
 
 ## 🌱 In progress
 
-- **Redress**: a complaints-management platform for EU payment and e-money institutions, built on my experience as EU/UK Complaints Manager at Square/Block. Logs complaints, runs PSD2 business-day deadline clocks per customer country (15 days, 35 with a holding response), generates responses from templates with the ADR referral built in, and keeps a database-enforced audit trail. Multi-tenant with row-level security, QA review, regulatory reporting and GDPR retention tools. Being built in phases; setup, roles, complaint intake, the deadline queue, case view and letters are done.
+- **Redress**: a complaints-management platform for EU payment and e-money institutions, built on my experience as EU/UK Complaints Manager at Square/Block. Multi-tenant with row-level security. Working now: complaint intake, PSD2 business-day deadline clocks per customer country (15 days, 35 with a holding response), a colour-coded queue, and responses generated from templates with the ADR referral built in. Next: a database-enforced audit trail, QA review, regulatory reporting, Stripe billing and GDPR retention tools.
 - **Bloom**: mindfulness and meditation app with guided sessions, mood tracking and journaling
 
 ## 📚 Learning
