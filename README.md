@@ -7,6 +7,13 @@ I'm building the technical side of compliance and support work: querying data, a
 ## 🛠️ Apps I've built
 
 - **[Tempo](https://focus-tempo.lovable.app)** *(private, invite-only)*: a mobile-first app for protecting deep work and handling meeting stress. It reads your Google Calendar to find focus windows and flag high-stakes meetings, prompts a short breathing session beforehand, and turns focus sessions, interruptions and energy into insights on when you work best. Reminders arrive even when the app is closed, and it installs on your phone like a native app.
+
+  <p>
+    <img src="docs/screenshots/tempo/today.jpg" width="250" alt="Tempo: Today with the day ribbon and best focus window" />
+    <img src="docs/screenshots/tempo/focus.jpg" width="250" alt="Tempo: running focus timer with interruption logging" />
+    <img src="docs/screenshots/tempo/settings.jpg" width="250" alt="Tempo: grouped Settings menu with live summaries" />
+  </p>
+
 - **[Ascent](https://ascenthigher.lovable.app)** *(private, invite-only)*: a learning tracker where each skill is a climb. Milestones, study timer, notes and habit check-ins move you from camp to summit. Includes Anki-style spaced-repetition flashcards, habit streaks with push reminders, and offline use with automatic sync. Installs on your phone like a native app.
 - **[Forge](https://forge-fueler.lovable.app)** *(private, invite-only)*: a mobile-first app that turns anger into action. Log what set you off and how intense it is, and get a physical, productive or calming task matched to your state, plus a focus timer and pattern tracking.
 
