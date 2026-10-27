@@ -1,8 +1,13 @@
 ### Hi, I'm Samy 👋
 
-Complaints and compliance specialist with 6.5 years in regulated payments, fintech and iGaming (Square/Block, Azimo, PokerStars). Law degree, native French and English.
+Complaints, compliance and customer operations specialist with 6 years in regulated payments, fintech and iGaming (Square/Block, Azimo, PokerStars). Law degree, native French and English.
 
 I'm building the technical side of compliance and support work: querying data, analysing complaints trends, and understanding how payments systems fit together. On the side, I build apps with AI.
+
+## 🧾 Support & complaints work
+
+- **[Northwind Payments Support Desk](https://github.com/SamyBosvy/jira-support-desk)**: a customer support and complaints desk for a fictional fintech, built in Jira Service Management and modelled on the EU/UK complaints process I ran at Square/Block. Four request types with tailored intake forms, PSD2-based SLA timers, escalation queues and an automated acknowledgement, tested end to end with 12 tickets.
+- **Redress** *(in progress)*: a complaints-management platform for EU payment and e-money institutions, built on my experience as EU/UK Complaints Manager at Square/Block. Multi-tenant with row-level security. Working now: complaint intake, PSD2 business-day deadline clocks per customer country (15 days, 35 with a holding response), a colour-coded queue, and responses generated from templates with the ADR referral built in. Next: a database-enforced audit trail, QA review, regulatory reporting, Stripe billing and GDPR retention tools.
 
 ## 🛠️ Apps I've built
 
@@ -26,11 +31,10 @@ I'm building the technical side of compliance and support work: querying data, a
 
 ## 🌱 In progress
 
-- **Redress**: a complaints-management platform for EU payment and e-money institutions, built on my experience as EU/UK Complaints Manager at Square/Block. Multi-tenant with row-level security. Working now: complaint intake, PSD2 business-day deadline clocks per customer country (15 days, 35 with a holding response), a colour-coded queue, and responses generated from templates with the ADR referral built in. Next: a database-enforced audit trail, QA review, regulatory reporting, Stripe billing and GDPR retention tools.
 - **Bloom**: mindfulness and meditation app with guided sessions, mood tracking and journaling
 
 ## 📚 Learning
 
-SQL · Excel · Power BI · APIs (Postman) · Jira Service Management · payments infrastructure · generative AI (working towards Google Cloud Generative AI Leader)
+SQL · Excel / Power Query · Power BI · Zendesk · Fin (Intercom) · n8n · AML / KYC
 
-📍 Based in Australia, returning to Europe · 📫 [LinkedIn](https://www.linkedin.com/in/samy-bosvy/)
+📍 Based in Australia, returning to Europe in 2027 · 📫 [LinkedIn](https://www.linkedin.com/in/samy-bosvy/)
