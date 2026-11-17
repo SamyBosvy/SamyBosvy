@@ -27,6 +27,23 @@ SQL on my own app data · Salesforce Trailhead (CRM basics) · Zendesk AI · AML
 Private, invite-only apps I built for myself and friends in Lovable: **[Tempo](https://focus-tempo.lovable.app)** (deep work and meeting prep from Google Calendar) · **[Ascent](https://ascenthigher.lovable.app)** (skill tracker with spaced-repetition flashcards) · **[Forge](https://forge-fueler.lovable.app)** (turns frustration into a matched task and a focus session).
 
 <details>
+<summary><b>Tempo</b>: how it works, with screenshots</summary>
+
+A deep-work and meeting-prep app. I use it to protect focus time around my calendar.
+
+- **Today:** reads a connected Google Calendar (read-only), finds the clear windows between meetings, highlights the best one and warns about back-to-back blocks.
+- **Focus and Prime:** a full-screen focus timer with interruption logging (self vs external) and a park-a-thought list; before a flagged stressful meeting, a short guided breathing session with eyes-closed mode, tones and haptics.
+- **Also:** insights on when you work best (hour heatmap, weekly review, meeting-load trend), reminders that arrive even when the app is closed, and JSON/CSV export. Calendar event titles are never stored. Installs on a phone like a native app.
+
+<p>
+  <img src="docs/screenshots/tempo/today.jpg" width="250" alt="Tempo: Today with the day ribbon and best focus window" />
+  <img src="docs/screenshots/tempo/focus.jpg" width="250" alt="Tempo: running focus timer with interruption logging" />
+  <img src="docs/screenshots/tempo/settings.jpg" width="250" alt="Tempo: grouped Settings menu with live summaries" />
+</p>
+
+</details>
+
+<details>
 <summary><b>Ascent</b>: how it works, with screenshots</summary>
 
 A learning tracker where each skill is a climb. I use it to run my own learning plan.
@@ -39,6 +56,23 @@ A learning tracker where each skill is a climb. I use it to run my own learning 
   <img src="docs/screenshots/ascent/route.jpg" width="250" alt="Ascent: a route at Camp 3 with time and milestones" />
   <img src="docs/screenshots/ascent/review.jpg" width="250" alt="Ascent: flashcard review with Again, Hard, Good and Easy" />
   <img src="docs/screenshots/ascent/summit.jpg" width="250" alt="Ascent: route reaching the summit, asking to mark it summited" />
+</p>
+
+</details>
+
+<details>
+<summary><b>Forge</b>: how it works, with screenshots</summary>
+
+A mobile-first app that turns anger into action.
+
+- **Strike:** log what set you off and how intense it is on a slider.
+- **Forge:** get a physical, productive or calming task matched to your state, with a focus timer, then rate the intensity again to see the drop.
+- **Insights:** patterns over time and your top triggers.
+
+<p>
+  <img src="docs/screenshots/forge/strike.jpg" width="250" alt="Forge: logging a strike with the intensity slider" />
+  <img src="docs/screenshots/forge/forged.jpg" width="250" alt="Forge: intensity dropped from 10 to 3, Forged" />
+  <img src="docs/screenshots/forge/insights.jpg" width="250" alt="Forge: Insights with patterns and top triggers" />
 </p>
 
 </details>
