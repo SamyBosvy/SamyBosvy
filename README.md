@@ -24,4 +24,21 @@ SQL on my own app data · Salesforce Trailhead (CRM basics) · Zendesk AI · AML
 
 Private, invite-only apps I built for myself and friends in Lovable: **[Tempo](https://focus-tempo.lovable.app)** (deep work and meeting prep from Google Calendar) · **[Ascent](https://ascenthigher.lovable.app)** (skill tracker with spaced-repetition flashcards) · **[Forge](https://forge-fueler.lovable.app)** (turns frustration into a matched task and a focus session).
 
+<details>
+<summary><b>Ascent</b>: how it works, with screenshots</summary>
+
+A learning tracker where each skill is a climb. I use it to run my own learning plan, including SQL and the Northwind support desk above.
+
+- **Routes:** each skill or project gets a target date, milestones and logged study time. Progress moves it from camp to camp, and you confirm the summit yourself.
+- **Review:** Anki-style spaced-repetition flashcards (Again, Hard, Good, Easy), with undo, review-ahead and a cram mode that leaves the schedule untouched.
+- **Also:** notes, habit check-ins with push reminders, insights on study hours and recall, and offline use with automatic sync. Installs on a phone like a native app.
+
+<p>
+  <img src="docs/screenshots/ascent/route.jpg" width="250" alt="Ascent: a route at Camp 3 with time and milestones" />
+  <img src="docs/screenshots/ascent/review.jpg" width="250" alt="Ascent: flashcard review with Again, Hard, Good and Easy" />
+  <img src="docs/screenshots/ascent/summit.jpg" width="250" alt="Ascent: route reaching the summit, asking to mark it summited" />
+</p>
+
+</details>
+
 📫 [LinkedIn](https://www.linkedin.com/in/samy-bosvy/)
