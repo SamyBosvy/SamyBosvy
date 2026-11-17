@@ -1,6 +1,6 @@
 ### Hi, I'm Samy 👋
 
-Customer operations specialist with 6+ years in regulated customer operations across fintech and payments (Square/Block, Azimo, PokerStars). Two-plus years as EU/UK Complaints Manager at Block. Law degree, native French and English.
+Customer operations specialist with 6+ years in regulated customer operations: fintech, payments and licensed gambling (Square/Block, Azimo, PokerStars). Two-plus years as EU/UK Complaints Manager at Block. Law degree, native French and English.
 
 **Track record:** 100% QA/CSAT · #1 in team for cross-sell · ~90 complex cases a month · SLA above 95%
 
