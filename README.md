@@ -24,7 +24,24 @@ SQL on my own app data · Salesforce Trailhead (CRM basics) · Zendesk AI · AML
 
 ## 🛠️ Personal projects
 
-Private, invite-only apps I built for myself and friends in Lovable: **[Tempo](https://focus-tempo.lovable.app)** (deep work and meeting prep from Google Calendar) · **[Ascent](https://ascenthigher.lovable.app)** (skill tracker with spaced-repetition flashcards) · **[Forge](https://forge-fueler.lovable.app)** (turns frustration into a matched task and a focus session).
+Private, invite-only apps I built for myself and friends in Lovable: **[Bloom](https://personal-stillness.lovable.app)** (mindfulness and mental-health app, privacy-first) · **[Tempo](https://focus-tempo.lovable.app)** (deep work and meeting prep from Google Calendar) · **[Ascent](https://ascenthigher.lovable.app)** (skill tracker with spaced-repetition flashcards) · **[Forge](https://forge-fueler.lovable.app)** (turns frustration into a matched task and a focus session).
+
+<details>
+<summary><b>Bloom</b>: how it works, with screenshots</summary>
+
+A mindfulness and mental-health app for adults, built privacy-first and now in private beta with friends.
+
+- **Practise:** guided meditations played from the creators' official YouTube channels with credit, breathing and grounding exercises, a sleep wind-down and a 4-week Foundations path.
+- **Reflect:** mood check-ins with a mood calendar, Echo (a short daily written reflection), Small Steps planning and a Thought check tool.
+- **Privacy and safety:** everything users write is encrypted on their phone before it's saved, so I can't read it, and the database rejects it if it isn't. No AI and no scanning of what users write. Also a private safety plan, crisis helplines for the user's country, an optional app lock, and a privacy dashboard showing exactly what's stored. Accessibility settings cover text size, reduced motion, contrast and a dyslexia-friendly font.
+
+<p>
+  <img src="docs/screenshots/bloom/home.jpg" width="250" alt="Bloom: Home with today's small step and a suggested practice" />
+  <img src="docs/screenshots/bloom/practice.jpg" width="250" alt="Bloom: a guided practice with creator credit" />
+  <img src="docs/screenshots/bloom/echo.jpg" width="250" alt="Bloom: Echo daily reflection with prompt styles" />
+</p>
+
+</details>
 
 <details>
 <summary><b>Tempo</b>: how it works, with screenshots</summary>
