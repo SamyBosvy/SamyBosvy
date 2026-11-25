@@ -24,7 +24,7 @@ SQL on my own app data · Salesforce Trailhead (CRM basics) · Zendesk AI · AML
 
 ## 🛠️ Personal projects
 
-Private, invite-only apps I built for myself and friends in Lovable: **[Bloom](https://personal-stillness.lovable.app)** (mindfulness and mental-health app, privacy-first) · **[Tempo](https://focus-tempo.lovable.app)** (deep work and meeting prep from Google Calendar) · **[Ascent](https://ascenthigher.lovable.app)** (skill tracker with spaced-repetition flashcards) · **[Forge](https://forge-fueler.lovable.app)** (turns frustration into a matched task and a focus session).
+Invite-only apps I built for myself and friends in Lovable (code for [Tempo](https://github.com/SamyBosvy/tempo) and [Ascent](https://github.com/SamyBosvy/ascent) is public): **[Bloom](https://personal-stillness.lovable.app)** (mindfulness and mental-health app, privacy-first) · **[Tempo](https://focus-tempo.lovable.app)** (deep work and meeting prep from Google Calendar) · **[Ascent](https://ascenthigher.lovable.app)** (skill tracker with spaced-repetition flashcards) · **[Forge](https://forge-fueler.lovable.app)** (turns frustration into a matched task and a focus session).
 
 <details>
 <summary><b>Bloom</b>: how it works, with screenshots</summary>
